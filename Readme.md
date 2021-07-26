@@ -1,8 +1,8 @@
-The Next TEC-1x ?
+# The Next TEC-1x ?
 
 This is a the ramblings of a TEC-1 fan that would like to release a new TEC-1 that people could continue to use for another 30 years.
 
-In this folder you should find a schematic.  Two major chnages have been made compared to the TEC-1D.
+In this folder you should find a schematic.  Two major changes have been made compared to the TEC-1D.
 
 <b>MEMORY</b>
 
@@ -15,6 +15,6 @@ But, having not actually printed the board, testing and confirming it woks perfe
 <b>Keyboard</b>
 
 The Keyboard is the really tricky part. I am tring to meld in together parts of the DAT board and taking inspiration from the Southern Cross Computer.
-The part that I don't think I have right is I think I need to tie the IO select lines together, be it with either diodes or a gate.  Again, feel free to leave an issue to discuss.
+The part that I don't think I have right is I think I need to tie the IO select lines (IO Port 0 and IO Port 3) together, be it with either diodes or a gate.  Again, feel free to leave an issue to discuss.
 
 ![image](https://user-images.githubusercontent.com/13119623/126997532-25b06b0d-268e-4e07-8217-14747bd53646.png)
